@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDGUrQe27Ug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Music\\K.A.Z.U.M.A\\KAZUMA.Launcher\\KAZUMA.Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\11.0.0-preview.2.26159.112\\microsoft.net.illink.tasks.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\11.0.0-preview.2.26159.112\\microsoft.netcore.app.runtime.win-x64.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\11.0.0-preview.2.26159.112\\microsoft.windowsdesktop.app.runtime.win-x64.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\11.0.0-preview.2.26159.112\\microsoft.aspnetcore.app.runtime.win-x64.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\11.0.0-preview.2.26159.112\\microsoft.netcore.app.crossgen2.win-x64.11.0.0-preview.2.26159.112.nupkg.sha512"
+  ],
+  "logs": []
+}

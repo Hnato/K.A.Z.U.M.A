@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Engine/KAZUMA.API/KAZUMA.API.csproj" />
+  <Project Path="Engine/KAZUMA.Core/KAZUMA.Core.csproj" />
+  <Project Path="Engine/KAZUMA.Launcher/KAZUMA.Launcher.csproj" />
+  <Project Path="Engine/KAZUMA.LLM/KAZUMA.LLM.csproj" />
+  <Project Path="Engine/KAZUMA.Memory/KAZUMA.Memory.csproj" />
+  <Project Path="Engine/KAZUMA.Orchestrator/KAZUMA.Orchestrator.csproj" />
+  <Project Path="Engine/KAZUMA.Speech/KAZUMA.Speech.csproj" />
+  <Project Path="Engine/KAZUMA.Tools/KAZUMA.Tools.csproj" />
+  <Project Path="Engine/KAZUMA.Translation/KAZUMA.Translation.csproj" />
+  <Project Path="Engine/KAZUMA.TTS/KAZUMA.TTS.csproj" />
+  <Project Path="Engine/KAZUMA.UI/KAZUMA.UI.csproj" />
+</Solution>

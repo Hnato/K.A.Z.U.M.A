@@ -1,0 +1,13 @@
+@KAZUMA.API_HostAddress = http://localhost:5174
+
+#if (EnableOpenAPI)
+GET {{KAZUMA.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+#endif
+
+GET {{KAZUMA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

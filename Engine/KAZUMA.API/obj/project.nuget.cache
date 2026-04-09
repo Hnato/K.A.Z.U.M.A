@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXNb5ozd+Gg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Music\\K.A.Z.U.M.A\\KAZUMA.API\\KAZUMA.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-preview.2.26159.112\\microsoft.aspnetcore.openapi.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\3.3.1\\microsoft.openapi.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\user\Music\K.A.Z.U.M.A\Dist_new\KAZUMA-Launcher.pdb
+C:\Users\user\Music\K.A.Z.U.M.A\Dist_new\Support\Assets\KAZUMA.ico
+C:\Users\user\Music\K.A.Z.U.M.A\Dist_new\Support\model_config.txt
+C:\Users\user\Music\K.A.Z.U.M.A\Dist_new\Support\README.txt
+C:\Users\user\Music\K.A.Z.U.M.A\Dist_new\KAZUMA-Launcher.exe
