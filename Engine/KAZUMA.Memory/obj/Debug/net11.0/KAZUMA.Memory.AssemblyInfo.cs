@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KAZUMA.Memory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf07fa5ec3f15e9700f516f44c070b4b7c25d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("KAZUMA.Memory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KAZUMA.Memory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
